@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+module-info.java
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Compiled Files
+*.class
+bin/
+build/
+/bin1/
